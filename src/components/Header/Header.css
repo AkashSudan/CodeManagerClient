@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  header {
+    text-align: center;
+    background-color: #c4a387;
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  }
+header h1 {
+    
+  color: #fff;
+    
+    font-weight: 200;
+  }
